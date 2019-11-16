@@ -15,7 +15,11 @@ public class Java101 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.print("Hello");
+        String name = "Your name?";
+        System.out.println(name);
+
+// TODO code application logic here
     }
-    
+
 }
